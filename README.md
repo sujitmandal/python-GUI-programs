@@ -48,11 +48,8 @@ Download https://code.visualstudio.com/Download
  Installing the required package’s:
 -------------------------------------
 
-•	conda install opencv
+•	conda install -c anaconda tk
 
-•	pip install pandas
-
-•	pip install numpy
 
 License:
 --------
