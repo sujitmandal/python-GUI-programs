@@ -9,6 +9,10 @@ The graphical user interface (GUI /ˈɡuːi/ gee-you-eye. is a form of user inte
 The actions in a GUI are usually performed through direct manipulation of the graphical elements.Beyond computers, GUIs are used in many handheld mobile devices such as MP3 players, portable media players, gaming devices, smartphones and smaller household, office and industrial controls. The term GUI tends not to be applied to other lower-display resolution types of interfaces, such as video games (where head-up display (HUD) is preferred), or not including flat screens, like volumetric displays because the term is restricted to the scope of two-dimensional display screens able to describe generic information, in the tradition of the computer science research at the Xerox Palo Alto Research Center.
 
 
+ Output:
+---------
+![](https://github.com/sujitmandal/python-GUI-programs/blob/master/digital%20clock.png)
+
  Requirement’s:
 -----------------
 
